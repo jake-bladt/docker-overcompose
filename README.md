@@ -10,4 +10,5 @@ A proof-of-concept application meant to demonstrate a technique for Windows and 
 * Is it possible to create an overlay network between Windows and its own WSL?
 * Is it possible to create an overlay network between a Windows host and its own docker-machine VM?
 * If not overlay, ipvlan or l2bridge?
+* When adding a container to a network, is it possible to add a DNS name as well?
 * Can docker-compose accept its launch document as a stream?
