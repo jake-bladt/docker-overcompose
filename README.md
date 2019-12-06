@@ -2,7 +2,7 @@
 
 ## Overview
 
-A proof-of-concept application meant to demonstrate a technique for Windows and Linux containers to play nicely together in Windows
+A proof-of-concept application meant to demonstrate a technique for Windows and Linux containers to play nicely together on a single Windows server
 
 ## Questions to answer
 
